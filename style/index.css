@@ -7,7 +7,7 @@
     background-image: url('../resources/Banner\ Image.png');
     height: 600px;
     width: 1320px;
-    margin: 50px 140px;
+    margin: 50px auto;
 }
 .baner-title{
     color: #FFF;
@@ -52,6 +52,41 @@
     font-family: 'Inter', sans-serif;
     font-family: 'Merriweather', serif;
 }
+/* contend the iages */
 .contend-images{
     margin: 0px 400px;
+}
+.section-imagess{
+    background-image: url('../resources/Vectorrr.png');
+    width: 1320px;
+    height: 600px;
+    margin: 60px auto;
+}
+.section-title{
+    padding: 126px 10px 20px 126px;
+}
+
+.welcome{
+    color: #FFF;
+    font-size: 65px;
+    font-weight: 900px;
+   
+}
+
+.dolor{
+    color: rgba(255, 255, 255, 0.80);
+    padding: 0px 650px 14px 126px;
+
+}
+.button-contend{
+    color: #FFF;
+    background-color: black;
+    padding: 10px;
+   margin-left: 150px;
+   margin-top: 30px;
+   border-radius: 5px;
+   border: 0px;
+   cursor: pointer;
+   font-size: 20px;
+   font-weight: 60px;
 }
