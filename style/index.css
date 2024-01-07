@@ -22,9 +22,36 @@
     padding: 23px 344px 177px 344px;
 }
 .baner-style{
-    color: #b8e1f5;
+    color: #FFF;
     text-align: center;
     font-size: 70px;
     font-family: 'Merriweather', serif;
   
+}
+/* section contend */
+.section-contend{
+    text-align: center;
+}
+.contend-off{
+    color: #F00;
+    font-size: 80px;
+    margin-bottom: 15px;
+    font-family: 'Inter', sans-serif;
+    font-family: 'Merriweather', serif;
+}
+.contend-text{
+    color: #F00;
+    margin-bottom: 10px;
+    font-size:15px ;
+}
+.content-title{
+    color:#070211;
+    margin-bottom: 20px;
+    font-size: 30px;
+    font-weight: 700px;
+    font-family: 'Inter', sans-serif;
+    font-family: 'Merriweather', serif;
+}
+.contend-images{
+    margin: 0px 400px;
 }
