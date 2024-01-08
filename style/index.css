@@ -92,7 +92,7 @@
 }
 /* section consequat */
 .consequat{
-    background-color: lavenderblush;
+    background: linear-gradient(180deg, rgba(255, 0, 0, 0.10) 0%, rgba(255, 0, 0, 0.00) 100%);
     width: 1320px;
     height: 400px;
     margin: 0px auto;
@@ -122,3 +122,52 @@ span{
     margin-top: 40px;
 }
 /* section new best offer */
+.new-offer{
+    
+    width: 1320px;
+    height: 400px;
+    margin: 50px auto;
+    display: flex;
+    align-items:center;
+    justify-content: space-between;
+}
+.new-contend{
+    width: 33.33%;
+    
+    
+}
+.nwe-text{
+    color: #F00;
+}
+.nwe-title{
+    font-size: 30px;
+    margin-top: 10px;
+    font-weight: 400px;
+    font-family: 'Inter Tight', sans-serif;
+}
+.new-font{
+    color: rgba(7, 2, 17, 0.60);
+    margin-top: 10px;
+    padding-right: 160px;
+}
+.new-contend-images{
+    padding: 20px;
+    border-radius:463px ;
+    border: 15px solid #F00;
+}
+.nwe-text-amet{
+    font-size: 50px;
+    font-family: 'Inter Tight', sans-serif;
+    color: #F00;
+    padding-left: 180px;
+}
+.new-title-dolor{
+    color: rgba(7, 2, 17, 0.60);
+    font-family: 'Inter Tight', sans-serif;
+    padding-left: 180px;
+    margin-top: 10px;
+}
+.new-title-dolo{
+    padding-left:180px ;
+    margin-top: 30px;
+}
