@@ -90,3 +90,35 @@
    font-size: 20px;
    font-weight: 60px;
 }
+/* section consequat */
+.consequat{
+    background-color: lavenderblush;
+    width: 1320px;
+    height: 400px;
+    margin: 0px auto;
+    border-radius: 10px;
+    margin-bottom: 10px;
+}
+.consequat-title{
+    text-align: center;
+    padding-top: 100px;
+    font-size: 25px;
+    font-weight: 500px;
+    font-family: 'Inter Tight', sans-serif;
+
+}
+.conseqaut-text{
+    margin-top: 10px;
+}
+span{
+    color: #F00;
+}
+.button-contear{
+    background-color:#F00 ;
+    color: #FFF;
+    padding: 10px 20px;
+    border: 0px;
+    border-radius: 5px;
+    margin-top: 40px;
+}
+/* section new best offer */
