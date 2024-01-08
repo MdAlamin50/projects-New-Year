@@ -232,9 +232,45 @@ span{
     background-position: right top;
     height: 373px;
     width: 100%;
-    
-   
 }
 .group{
     margin-left: 80px;
 }
+/* section no seven */
+.index-contenar{
+    width: 1320px;
+    height: 1050px;
+    background-color: aqua;
+    margin: 0px auto;
+}
+.the-best{
+    color: #F00;
+    font-size: 15px;
+    font-weight: 300px;
+    font-family: 'Inter Tight', sans-serif;
+    margin-top: 10px;
+}
+.our-awesome{
+    color: #070211;
+    font-size: 35px;
+    font-weight: 900px;
+    font-family: 'Inter', sans-serif;
+    font-family: 'Merriweather', serif;
+    margin-top: 15px;
+}
+.borlor-sit{
+    color: rgba(7, 2, 17, 0.60);
+    font-size: 15px;
+    font-weight: 400px;
+    font-family: 'Inter Tight', sans-serif;
+     padding-right: 665px;
+     margin-top: 10px;
+}
+.content-image-style{
+    margin-top: 20px;
+}
+.imagess-style{
+    margin-right: 13px;
+    cursor: pointer;
+}
+/* section no eighet */
