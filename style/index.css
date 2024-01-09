@@ -266,11 +266,22 @@ span{
      margin-top: 10px;
 }
 .content-image-style{
-    margin-top: 20px;
+    margin-top: 24px;
+    transition: 2s;
+    gap: 10px;
 }
 .imagess-style{
     margin-right: 13px;
-    cursor: pointer;
+    cursor: pointer;  
+}
+.content-image-style .imagess-styleF{
+    display: block;
+    width: 100%;
+    border-radius: 5px;
+}
+.content-image-style :hover{
+    transform: scale(1.1);
+    z-index: 0;
 }
 /* section no eighet */
 .maim-section{
@@ -296,27 +307,73 @@ span{
     padding: 10px 350px;
 }
 .input-style{
-    text-align: center;
-    margin-top: 20px;
-    text-transform: capitalize;
-    border: none;
- 
+   display: inline-flex;
+   padding-left: 300px;
+   margin-top: 15px;
 }
 .input-text{
-    width: 400px;
     height: 50px;
-    border-radius: 25px 0px 0px 25px;
-    padding-left: 10px;
-   
+    width: 430px;
+    border: none;
+    border-radius: 45px 0px 0px 45px;
+    padding: 5px 30px;
+    background-color: #FFF;
 }
 .button-style{
+    width: 210px;
+    height: 60px;
     color: #FFF;
-    width: 150px;
-    height: 55px;
     background-color: #F00;
-    border-radius: 0px 50px 50px 0px;
+    border: none;
+    border-radius: 0px 45px 45px 0px;
+    text-align: center;
     font-size: 15px;
-   font-weight: 600px;
-  
-   
+    font-weight: 600px;
+    font-family: 'Inter Tight', sans-serif;
+    text-transform: capitalize;
+}
+/* footer style */
+.footer-style{
+    height: 300px;
+    background-color: #070211;
+    padding: 120px 135px;
+}
+.footer-text{
+    color: #FFF;
+    font-size: 20px;
+    font-weight: 600px;
+    font-family: 'Inter Tight', sans-serif;
+    line-height: 40px;
+}
+.footer-contend{
+    color: #FFF;
+    font-size: 20px;
+    font-weight: 600px;
+    font-family: 'Inter Tight', sans-serif;
+    line-height: 40px;
+}
+.footer-title{
+    display: flex;
+    justify-content: space-between;
+}
+.href{
+    width: 100%;
+    opacity: 20px;
+    border: 1px solid rgb(25, 19, 19);
+}
+.footer-sectio{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    /* align-items: center; */
+    padding: 40px 0px;
+}
+.footer-last{
+    color:#FFF;
+    margin-top: 60px;
+    font-size: 24px;
+    font-weight: 600px;
+    font-family: 'Inter Tight', sans-serif;
+    display: flex;
+    justify-content: space-between;
 }
